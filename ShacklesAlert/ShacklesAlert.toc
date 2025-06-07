@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: ShacklesAlert
+## Notes: Alerts for Shackles of the Legion & Karazhan Trash debuffs
+## Version: 1.3
+## Author: ChatGPT
+ShacklesAlert.lua
